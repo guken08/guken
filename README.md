@@ -1,2 +1,2 @@
-# guken.tk
-guken.tk
+# guken.ga
+guken.ga
