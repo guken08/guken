@@ -1,2 +1,0 @@
-# guken.ga
-guken.ga
